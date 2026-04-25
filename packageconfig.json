@@ -21,10 +21,10 @@
 
     "packageCopyright":          "Copyright © 2026 Cloudmersive, LLC.",
 
-    "packageGuid": "828c39ac-8f8e-4e45-9e34-cd67ac47cd8c",
+    "packageGuid": "e536623e-1d96-4b2e-be3f-2771304d24d4",
     "library": "restsharp",
     "supportsFileParameters": true,
     "targetFramework": "netstandard2.0",
-    "netCoreProjectFile": false
+    "netCoreProjectFile": true
   }
   
